@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/photoviewer.git"
+    "url": "git+https://github.com/dootixsa/photoviewer.git"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/photoviewer/issues"
+    "url": "https://github.com/dootixsa/photoviewer/issues"
   },
   "keywords": [
     "capacitor",
