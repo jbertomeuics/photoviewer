@@ -1,5 +1,5 @@
 {
-  "name": "@dootix-developer/photoviewer",
+  "name": "@capacitor-community/photoviewer",
   "version": "3.3.0",
   "description": "PhotoViewer table images with fullscreen and sharing capabilities",
   "main": "dist/plugin.cjs.js",
